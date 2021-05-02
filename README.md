@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**JManuelIzRa/JManuelIzRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 Here are some ideas to get you started:
 
