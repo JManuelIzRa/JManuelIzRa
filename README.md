@@ -2,8 +2,8 @@
 
 <a href="https://github.com/JManuelIzRa/github-stats">
 
-![](https://github.com/JManuelIzRa/github-stats/generated/overview.svg)
-![](https://github.com/JManuelIzRa/github-stats/generated/languages.svg)
+![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
