@@ -122,9 +122,9 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#1](https://github.com/AlexLunaP/sistemas-informacion/pull/1) in [AlexLunaP/sistemas-informacion](https://github.com/AlexLunaP/sistemas-informacion)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
 
