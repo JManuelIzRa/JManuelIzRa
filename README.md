@@ -75,11 +75,10 @@
 
 <p>
 
-<img align="left" margin-left=10% src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg"></img>
-<img align="right" margin-right=10% src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg"></img>
+## 📊 Github stats
 
-![]()
-![]()
+  <img margin-left=10% src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg"></img>
+  <img src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg"></img>
 
 </p>
 
@@ -87,10 +86,11 @@
 <br/>
 <br/>
 
-<p align="center" margin-top = 30pox>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=ayu-light&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339"></img>
+<p align="center">
+    <img alt="JManuelIzRa's streak" src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=ayu-light&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
-
 
 </details>
 
