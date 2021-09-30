@@ -9,15 +9,22 @@
 
 ### Languages
 
+<div style="background-color: rgb(255,255,255);>
+    
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/c.svg" />
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/cplusplus.svg" />
 
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/java.svg" />
 
-[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/markdown.svg" />]
+<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/markdown.svg" />
 
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/python.svg" />]
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/python.svg" />
+
+</div>
+
+
+</bg>
 
 ### Tools:
 
