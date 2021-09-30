@@ -83,6 +83,8 @@
 </p>
 
 <br/>
+
+
 <br/>
 <br/>
 
@@ -109,6 +111,13 @@
 
 <details>
   <summary>📃 Recent activity</summary>
+
+  
+## 📊 I Spent My Time On
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+
 
   <!--START_SECTION:activity-->
 
