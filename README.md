@@ -3,27 +3,12 @@
 </h1>
 
 <p align='center'>
-  
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
-<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/JManuelIzRa/JManuelIzRa"></a>
 </p>
 
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
-
-<p align='center'>
-  📫 How to contact me: <a href='mailto:@gmail.com'>correo@gmail.com</a>
-</p>
 
 <details>
   <summary>📃 Resume</summary>
@@ -96,16 +81,37 @@
 ![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg)
 
 </a>
-
-</center>
-
-
-<center>
   
   <img align="middle" src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=ayu-light&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339"></img>
 
 </center>
 
 </details>
+
+<br/>
+
+<details>
+  <summary>📃 Projects</summary>
+
+  Working on....:construction:
+
+</details>
+
+## Contact me
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+  <p align='center'>
+  📫 <a href='mailto:@gmail.com'>correo@gmail.com</a>
+</p>
+
+</p>
 
 Working on....:construction:
