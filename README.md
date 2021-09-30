@@ -86,6 +86,8 @@
 <br/>
 <br/>
 
+## 🔥 Streak stats
+
 <p align="center">
     <img alt="JManuelIzRa's streak" src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=ayu-light&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339"/>
   </a>
@@ -100,6 +102,17 @@
   <summary>📃 Projects</summary>
 
   Working on....:construction:
+
+</details>
+
+</br>
+
+<details>
+  <summary>📃 Recent activity</summary>
+
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
 
 </details>
 
