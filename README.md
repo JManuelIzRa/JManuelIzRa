@@ -75,8 +75,8 @@
 
 <p>
 
-<img align="left" src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg"></img>
-<img align="right" src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg"></img>
+<img align="left" margin-left=10% src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg"></img>
+<img align="right" margin-right=10% src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg"></img>
 
 ![]()
 ![]()
@@ -87,7 +87,7 @@
 <br/>
 <br/>
 
-<p align="center">
+<p align="center" margin-top = 30pox>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=ayu-light&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339"></img>
 </p>
 
