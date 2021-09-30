@@ -52,7 +52,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339)](https://git.io/streak-stats)
   
-  [<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339" /></img>
+  [<img align='center' src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339" /></img>
 
 </p>
 
