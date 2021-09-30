@@ -10,7 +10,7 @@
 ### Languages
 
 <div style="background-color: rgb(255,255,255);>
-    
+
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/c.svg" />
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/cplusplus.svg" />
@@ -23,12 +23,11 @@
 
 </div>
 
-
 </bg>
 
-### Tools:
+### Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio Code" style="color:blue" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/visualstudiocode.svg" />
 
 <img align="left" alt="EclipseIDE" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/eclipseide.svg" />
 
@@ -42,8 +41,7 @@
 
 <img align="left" alt="slack" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/slack.svg" />
 
-<img align="left" alt="trello" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/trello.svg" />
+<img align="left" alt="trello" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/trello.svg" /></img>
 
-<br />
-<br />
+
 Working on....:construction:
