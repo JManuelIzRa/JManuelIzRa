@@ -7,15 +7,6 @@
 
 </a>
 
-<p align='center'>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339)](https://git.io/streak-stats)
-  
-</p>
-
-
-[<img align="mid" alt="C" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/c.svg" /></img>
-
 <br />
 
 ### Languages
@@ -53,5 +44,16 @@
 
 <img align="left" alt="trello" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/trello.svg" /></img>
 </div>
+
+<br />
+<br />
+
+<p align='center'>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339)](https://git.io/streak-stats)
+  
+  [<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339" /></img>
+
+</p>
 
 Working on....:construction:
