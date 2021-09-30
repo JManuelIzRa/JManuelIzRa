@@ -115,8 +115,8 @@
   
 ## 📊 I Spent My Time On
 
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
   <!--START_SECTION:activity-->
