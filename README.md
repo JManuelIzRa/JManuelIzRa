@@ -48,12 +48,12 @@
 <br />
 <br />
 
-<p>
+<center>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339)](https://git.io/streak-stats)
   
-  [<img  src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339" style="horizontal-align:middle;margin: 0% 50%"></img>
+  [<img  src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339" style="margin: 0% 50%"></img>
 
-</p>
+</center>
 
 Working on....:construction:
