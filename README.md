@@ -73,13 +73,14 @@
 <details>
   <summary>📃 Stats</summary>
 
-<p align="center">
-<a href="https://github.com/JManuelIzRa/github-stats">
+<p>
 
-![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg)
+<img align="left" src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg"></img>
+<img align="right" src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg"></img>
 
-</a>
+![]()
+![]()
+
 </p>
 
 <br/>
