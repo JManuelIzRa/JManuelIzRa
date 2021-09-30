@@ -7,23 +7,26 @@
 
 </a>
 
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=JManuelIzRa">
+
+<br />
+
 ### Languages
 
-<div style="background-color: rgb(255,255,255);>
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/c.svg" /></img>
 
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/c.svg" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/cplusplus.svg" /></img>
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/cplusplus.svg" />
+<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/java.svg" /></img>
 
-<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/java.svg" />
+<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/markdown.svg" /></img>
 
-<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/markdown.svg" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/python.svg" /></img>
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/python.svg" />
-
-</div>
+<br />
 
 </bg>
+<div>
 
 ### Tools
 
@@ -42,6 +45,6 @@
 <img align="left" alt="slack" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/slack.svg" />
 
 <img align="left" alt="trello" width="26px" src="https://raw.githubusercontent.com/JManuelIzRa/JManuelIzRa/main/icons/trello.svg" /></img>
-
+</div>
 
 Working on....:construction:
