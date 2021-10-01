@@ -117,7 +117,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   44 mins         ██████████████▒░░░░░░░░░░   56.67 % 
+C++        15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+YAML       9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Makefile   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+C          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
 
