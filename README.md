@@ -128,9 +128,9 @@ Makefile   9 mins          █░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#1](https://github.com/AlexLunaP/sistemas-informacion/pull/1) in [AlexLunaP/sistemas-informacion](https://github.com/AlexLunaP/sistemas-informacion)
-2. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ⭐ Starred [pranavanand24/Artificial-Intelligence-And-Data-Science-Pro](https://github.com/pranavanand24/Artificial-Intelligence-And-Data-Science-Pro)
+1. ⭐ Starred [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
+2. ⭐ Starred [ccombier/stanford-CS229](https://github.com/ccombier/stanford-CS229)
+3. ⭐ Starred [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning)
 
 
 
