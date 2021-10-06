@@ -128,9 +128,9 @@ Makefile   9 mins          █░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
-2. ⭐ Starred [ccombier/stanford-CS229](https://github.com/ccombier/stanford-CS229)
-3. ⭐ Starred [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning)
+1. ⭐ Starred [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies)
+2. ⭐ Starred [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
+3. ⭐ Starred [ccombier/stanford-CS229](https://github.com/ccombier/stanford-CS229)
 
 
 
