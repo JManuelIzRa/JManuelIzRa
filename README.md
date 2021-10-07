@@ -128,9 +128,9 @@ Bash       12 mins         ▒░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies)
-2. ⭐ Starred [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
-3. ⭐ Starred [ccombier/stanford-CS229](https://github.com/ccombier/stanford-CS229)
+1. ⭐ Starred [PacktPublishing/Python-Deep-Learning-Projects](https://github.com/PacktPublishing/Python-Deep-Learning-Projects)
+2. ⭐ Starred [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies)
+3. ⭐ Starred [PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading](https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading)
 
 
 
