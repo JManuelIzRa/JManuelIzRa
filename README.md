@@ -128,9 +128,9 @@ Bash       26 mins         ▓░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-2. ⭐ Starred [PacktPublishing/Python-Deep-Learning-Projects](https://github.com/PacktPublishing/Python-Deep-Learning-Projects)
-3. ⭐ Starred [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies)
+1. ⭐ Starred [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+2. ⭐ Starred [Pranav016/Hacktoberfest-PR-for-beginners](https://github.com/Pranav016/Hacktoberfest-PR-for-beginners)
+3. ⭐ Starred [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 
 
 
