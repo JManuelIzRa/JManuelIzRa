@@ -117,19 +117,16 @@
 
 <!--START_SECTION:waka-->
 ```text
-C          9 hrs 20 mins   ████████████████░░░░░░░░░   63.65 % 
-C++        5 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.18 % 
-Text       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-CMake      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
-2. ⭐ Starred [Pranav016/Hacktoberfest-PR-for-beginners](https://github.com/Pranav016/Hacktoberfest-PR-for-beginners)
-3. ⭐ Starred [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+1. 💪 Opened PR [#1](https://github.com/AlexLunaP/sistemas-informacion/pull/1) in [AlexLunaP/sistemas-informacion](https://github.com/AlexLunaP/sistemas-informacion)
+2. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ⭐ Starred [pranavanand24/Artificial-Intelligence-And-Data-Science-Pro](https://github.com/pranavanand24/Artificial-Intelligence-And-Data-Science-Pro)
 
 
 
@@ -142,11 +139,9 @@ CMake      4 mins          ░░░░░░░░░░░░░░░░░�
 
 <p align='center'>
   
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
- <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="josé-manuel-izquierdo-ramírez-639a25223" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/jos%C3%A9-manuel-izquierdo-ram%C3%ADrez-639a25223?trk=profile-badge">José Manuel Izquierdo Ramírez</a></div>
-              
-              
+  <a href="www.linkedin.com/in/jose-manuel-izquierdo-ramirez">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
