@@ -117,16 +117,19 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C          9 hrs 20 mins   ████████████████░░░░░░░░░   63.65 % 
+C++        5 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.18 % 
+Text       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+CMake      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#1](https://github.com/AlexLunaP/sistemas-informacion/pull/1) in [AlexLunaP/sistemas-informacion](https://github.com/AlexLunaP/sistemas-informacion)
-2. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ⭐ Starred [pranavanand24/Artificial-Intelligence-And-Data-Science-Pro](https://github.com/pranavanand24/Artificial-Intelligence-And-Data-Science-Pro)
+1. ⭐ Starred [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+2. ⭐ Starred [Pranav016/Hacktoberfest-PR-for-beginners](https://github.com/Pranav016/Hacktoberfest-PR-for-beginners)
+3. ⭐ Starred [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 
 
 
