@@ -117,7 +117,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C          9 hrs 20 mins   ████████████████░░░░░░░░░   63.65 % 
+C++        5 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.18 % 
+Text       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+CMake      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
