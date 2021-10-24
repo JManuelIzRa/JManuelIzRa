@@ -128,9 +128,9 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
-2. ⭐ Starred [Pranav016/Hacktoberfest-PR-for-beginners](https://github.com/Pranav016/Hacktoberfest-PR-for-beginners)
-3. ⭐ Starred [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+1. ⭐ Starred [keithnoguchi/scan](https://github.com/keithnoguchi/scan)
+2. ⭐ Starred [keithnoguchi/books-c](https://github.com/keithnoguchi/books-c)
+3. ⭐ Starred [keithnoguchi/arch-on-air](https://github.com/keithnoguchi/arch-on-air)
 
 
 
