@@ -128,9 +128,9 @@ CMake        1 min           ▒░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [keithnoguchi/scan](https://github.com/keithnoguchi/scan)
-2. ⭐ Starred [keithnoguchi/books-c](https://github.com/keithnoguchi/books-c)
-3. ⭐ Starred [keithnoguchi/arch-on-air](https://github.com/keithnoguchi/arch-on-air)
+1. ⭐ Starred [Rakeshgombi/Hactoberfest-2021](https://github.com/Rakeshgombi/Hactoberfest-2021)
+2. ⭐ Starred [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub)
+3. ⭐ Starred [keithnoguchi/scan](https://github.com/keithnoguchi/scan)
 
 
 
