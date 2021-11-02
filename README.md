@@ -128,9 +128,9 @@ CMake      3 mins          ▒░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Rakeshgombi/Hactoberfest-2021](https://github.com/Rakeshgombi/Hactoberfest-2021)
-2. ⭐ Starred [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub)
-3. ⭐ Starred [keithnoguchi/scan](https://github.com/keithnoguchi/scan)
+1. ⭐ Starred [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality)
+2. ⭐ Starred [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
+3. ⭐ Starred [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 
 
 
