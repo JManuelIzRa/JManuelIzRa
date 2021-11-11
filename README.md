@@ -128,9 +128,9 @@ Makefile     6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality)
-2. ⭐ Starred [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
-3. ⭐ Starred [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
+1. ⭐ Starred [prateekvij/Socket-based-FTP](https://github.com/prateekvij/Socket-based-FTP)
+2. ⭐ Starred [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality)
+3. ⭐ Starred [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
 
 
 
