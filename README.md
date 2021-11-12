@@ -128,9 +128,9 @@ Makefile     8 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [prateekvij/Socket-based-FTP](https://github.com/prateekvij/Socket-based-FTP)
-2. ⭐ Starred [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality)
-3. ⭐ Starred [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
+1. ⭐ Starred [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2)
+2. ⭐ Starred [prateekvij/Socket-based-FTP](https://github.com/prateekvij/Socket-based-FTP)
+3. ⭐ Starred [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality)
 
 
 
