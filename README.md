@@ -128,9 +128,9 @@ CMake   16 mins         █░░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [PonyGE/PonyGE2](https://github.com/PonyGE/PonyGE2)
-2. ⭐ Starred [prateekvij/Socket-based-FTP](https://github.com/prateekvij/Socket-based-FTP)
-3. ⭐ Starred [ahmetozlu/augmented_reality](https://github.com/ahmetozlu/augmented_reality)
+1. ⭐ Starred [sorabhgandhi01/Proxy-Server](https://github.com/sorabhgandhi01/Proxy-Server)
+2. 🔱 Forked [JManuelIzRa/ml-class](https://github.com/JManuelIzRa/ml-class) from [lukas/ml-class](https://github.com/lukas/ml-class)
+3. ⭐ Starred [lukas/ml-class](https://github.com/lukas/ml-class)
 
 
 
