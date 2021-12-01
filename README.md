@@ -125,9 +125,9 @@ Git Config   8 mins          ███▓░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [LinkedInLearning/cpp-avanzado-2825390](https://github.com/LinkedInLearning/cpp-avanzado-2825390)
-2. ⭐ Starred [sorabhgandhi01/Proxy-Server](https://github.com/sorabhgandhi01/Proxy-Server)
-3. 🔱 Forked [JManuelIzRa/ml-class](https://github.com/JManuelIzRa/ml-class) from [lukas/ml-class](https://github.com/lukas/ml-class)
+1. ⭐ Starred [Zeffiretti/SerialTool](https://github.com/Zeffiretti/SerialTool)
+2. ⭐ Starred [LinkedInLearning/cpp-avanzado-2825390](https://github.com/LinkedInLearning/cpp-avanzado-2825390)
+3. ⭐ Starred [sorabhgandhi01/Proxy-Server](https://github.com/sorabhgandhi01/Proxy-Server)
 
 
 
