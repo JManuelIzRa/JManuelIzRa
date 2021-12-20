@@ -117,7 +117,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TeX   4 hrs 43 mins   █████████████████████████   100.00 % 
+TeX   3 hrs 43 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
