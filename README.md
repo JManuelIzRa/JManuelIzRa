@@ -117,6 +117,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 2 hrs 6 mins
+
 C++     2 hrs 5 mins    ████████████████████████▓   98.52 % 
 CMake   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
