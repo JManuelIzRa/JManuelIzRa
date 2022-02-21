@@ -124,9 +124,9 @@ No Activity tracked this Week
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ComputerScientist-01/DBMS](https://github.com/ComputerScientist-01/DBMS)
-2. ⭐ Starred [Zeffiretti/SerialTool](https://github.com/Zeffiretti/SerialTool)
-3. ⭐ Starred [LinkedInLearning/cpp-avanzado-2825390](https://github.com/LinkedInLearning/cpp-avanzado-2825390)
+1. 📔 Created new repository [JManuelIzRa/Metaheuristics](https://github.com/JManuelIzRa/Metaheuristics)
+2. ⭐ Starred [ComputerScientist-01/DBMS](https://github.com/ComputerScientist-01/DBMS)
+3. ⭐ Starred [Zeffiretti/SerialTool](https://github.com/Zeffiretti/SerialTool)
 
 
 
