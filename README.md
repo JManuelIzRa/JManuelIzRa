@@ -124,9 +124,9 @@ No Activity tracked this Week
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [JManuelIzRa/Metaheuristics](https://github.com/JManuelIzRa/Metaheuristics)
-2. ⭐ Starred [ComputerScientist-01/DBMS](https://github.com/ComputerScientist-01/DBMS)
-3. ⭐ Starred [Zeffiretti/SerialTool](https://github.com/Zeffiretti/SerialTool)
+1. ⭐ Starred [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym)
+2. ⭐ Starred [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris)
+3. ⭐ Starred [curiousily/Machine-Learning-from-Scratch](https://github.com/curiousily/Machine-Learning-from-Scratch)
 
 
 
