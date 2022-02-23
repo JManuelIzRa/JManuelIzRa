@@ -124,9 +124,9 @@ No Activity tracked this Week
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym)
-2. ⭐ Starred [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris)
-3. ⭐ Starred [curiousily/Machine-Learning-from-Scratch](https://github.com/curiousily/Machine-Learning-from-Scratch)
+1. ⭐ Starred [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
+2. ⭐ Starred [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym)
+3. ⭐ Starred [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris)
 
 
 
