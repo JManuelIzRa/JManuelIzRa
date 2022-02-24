@@ -117,7 +117,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+TeX          1 hr 6 mins     ████████████████████████▒   96.87 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 <!--END_SECTION:waka-->
 
