@@ -125,9 +125,9 @@ Other        2 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)
-2. ⭐ Starred [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym)
-3. ⭐ Starred [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris)
+1. ⭐ Starred [GDGVIT/pip-gui](https://github.com/GDGVIT/pip-gui)
+2. ⭐ Starred [GDGVIT/ssh](https://github.com/GDGVIT/ssh)
+3. ⭐ Starred [GDGVIT/airPollution](https://github.com/GDGVIT/airPollution)
 
 
 
