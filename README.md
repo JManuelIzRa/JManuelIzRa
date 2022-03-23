@@ -127,9 +127,9 @@ Python   1 min           ▒░░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [kuutsav/LeetComp](https://github.com/kuutsav/LeetComp)
-2. ⭐ Starred [GDGVIT/pip-gui](https://github.com/GDGVIT/pip-gui)
-3. ⭐ Starred [GDGVIT/ssh](https://github.com/GDGVIT/ssh)
+1. ⭐ Starred [dataprofessor/binance](https://github.com/dataprofessor/binance)
+2. ⭐ Starred [kuutsav/LeetComp](https://github.com/kuutsav/LeetComp)
+3. ⭐ Starred [GDGVIT/pip-gui](https://github.com/GDGVIT/pip-gui)
 
 
 
