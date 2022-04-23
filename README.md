@@ -126,9 +126,9 @@ No activity tracked
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [dataprofessor/binance](https://github.com/dataprofessor/binance)
-2. ⭐ Starred [kuutsav/LeetComp](https://github.com/kuutsav/LeetComp)
-3. ⭐ Starred [GDGVIT/pip-gui](https://github.com/GDGVIT/pip-gui)
+1. 🎉 Merged PR [#1](https://github.com/JManuelIzRa/python/pull/1) in [JManuelIzRa/python](https://github.com/JManuelIzRa/python)
+2. 💪 Opened PR [#1](https://github.com/JManuelIzRa/python/pull/1) in [JManuelIzRa/python](https://github.com/JManuelIzRa/python)
+3. ⭐ Starred [dataprofessor/binance](https://github.com/dataprofessor/binance)
 
 
 
