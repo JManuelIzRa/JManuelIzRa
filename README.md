@@ -128,9 +128,9 @@ Text     1 min           ░░░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
-2. ⭐ Starred [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
-3. ⭐ Starred [cli/cli](https://github.com/cli/cli)
+1. ❌ Closed PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
+2. 💪 Opened PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
+3. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
 
 
 
