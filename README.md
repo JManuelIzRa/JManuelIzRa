@@ -129,9 +129,9 @@ Other      13 mins         █▒░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❌ Closed PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
-2. 💪 Opened PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
-3. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
+1. 🤝 Became collaborator on [JManuelIzRa/PL](https://github.com/JManuelIzRa/PL)
+2. 📔 Created new repository [JManuelIzRa/PL](https://github.com/JManuelIzRa/PL)
+3. ❌ Closed PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
 
 
 
