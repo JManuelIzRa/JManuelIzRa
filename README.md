@@ -153,7 +153,7 @@ Other      6 mins          █▒░░░░░░░░░░░░░░░�
   </a>&nbsp;&nbsp;
 
   <p align='center'>
-  📫 <a href='mailto:@gmail.com'>correo@gmail.com</a>
+  📫 <a href='mailto:jmanuel.izradev@gmail.com'>Contactar</a>
 </p>
 
 </p>
