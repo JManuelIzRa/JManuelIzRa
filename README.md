@@ -91,7 +91,7 @@
 ## 🔥 Streak stats
 
 <p align="center">
-    <img alt="JManuelIzRa's streak" src="https://github-readme-streak-stats.herokuapp.com?user=JManuelIzRa&theme=ayu-light&hide_border=true&stroke=1A000078&currStreakNum=DD922A&sideNums=DD8B27&fire=DD0000&ring=DD7339"/>
+    <img alt="JManuelIzRa's streak" src="https://streak-stats.demolab.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=100%2C000000%2C614BBE&currStreakNum=D13FEB&fire=FF0000&excludeDaysLabel=EBA5E9"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
