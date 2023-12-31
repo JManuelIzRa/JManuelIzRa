@@ -118,8 +118,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   1 hr 2 mins     ███████████████▒░░░░░░░░░   61.33 %
-XML      39 mins         █████████▓░░░░░░░░░░░░░░░   38.67 %
+Kotlin   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
