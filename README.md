@@ -130,7 +130,7 @@ Other    14 mins         ▓░░░░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🤝 Became collaborator on [JManuelIzRa/PL](https://github.com/JManuelIzRa/PL)
+1. ⭐ Starred [JManuelIzRa/server-client-example-sys-socket.h](https://github.com/JManuelIzRa/server-client-example-sys-socket.h)
 2. 📔 Created new repository [JManuelIzRa/PL](https://github.com/JManuelIzRa/PL)
 3. ❌ Closed PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
 
