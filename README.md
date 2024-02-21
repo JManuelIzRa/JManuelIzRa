@@ -118,7 +118,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin                 30 mins         ████████████▒░░░░░░░░░░░░   49.43 %
+XML                    23 mins         █████████▒░░░░░░░░░░░░░░░   37.78 %
+JSON                   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Gradle                 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Java                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
