@@ -118,10 +118,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   13 mins         █████████████████████▒░░░   85.77 %
-Groovy   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-Gradle   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
