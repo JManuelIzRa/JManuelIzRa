@@ -130,7 +130,7 @@ Kotlin            59 mins         █░░░░░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [NicholasMata/Spotlight](https://github.com/NicholasMata/Spotlight)
+1. 📔 Created new repository [JManuelIzRa/TFG](https://github.com/JManuelIzRa/TFG)
 2. ⭐ Starred [JManuelIzRa/server-client-example-sys-socket.h](https://github.com/JManuelIzRa/server-client-example-sys-socket.h)
 3. ❌ Closed PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
 
