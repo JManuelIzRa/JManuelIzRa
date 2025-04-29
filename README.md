@@ -118,7 +118,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin              2 mins          ██████████████▓░░░░░░░░░░   58.05 %
+Gradle Kotlin DSL   1 min           ████████▓░░░░░░░░░░░░░░░░   34.48 %
+Java Properties     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Other               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+TOML                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
