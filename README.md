@@ -118,7 +118,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart    4 hrs 3 mins    ██████████████████████▒░░   89.96 %
+JSON    20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+YAML    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
