@@ -118,9 +118,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-BibTeX   2 mins          ████████████████████▒░░░░   80.83 %
-JSON     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Other    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
