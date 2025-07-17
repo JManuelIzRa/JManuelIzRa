@@ -118,7 +118,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   6 mins          █████████████████████████   100.00 %
+TeX   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
