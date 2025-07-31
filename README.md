@@ -118,7 +118,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 15 mins    ███████████████████████▒░   93.92 %
+Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+TOML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
