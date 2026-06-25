@@ -1,194 +1,120 @@
-<h1 align='center'>
-  Hi there 👋 I'm José Manuel 👨‍💻
-</h1>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/JManuelIzRa/JManuelIzRa"></a>
+<!-- HERO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+José+Manuel;Full+Stack+Developer;Systems+%26+Cybersecurity+Enthusiast;Building+tools+that+matter" />
 </p>
 
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/JManuelIzRa/JManuelIzRa" />
+</p>
 
-<details>
-  <summary>📃 Resume</summary>
+---
 
+## 🧠 SYSTEM PROFILE
+```
+> booting profile...
+> loading skills matrix...
+> status: ONLINE
+```
 
-## Education
+---
 
-📖 **Computer Science Engineering**\
-📆 2019 - 2024\
-📍 **UCO - Escuela Politécnica Superior de Córdoba** Córdoba, España
+## 🎓 EDUCATION
 
-📖 **University Master's Degree in Web Applications and Services Development**\
-📆 2024 - 2025\
-📍 **VIU - Universidad Internacional de Valencia** Valencia, España
+📖 Computer Science Engineering (2019 - 2024)  
+📍 UCO - Escuela Politécnica Superior de Córdoba  
 
+📖 Master in Web Applications & Services Development (2024 - 2025)  
+📍 VIU - Universidad Internacional de Valencia  
 
+---
 
-## Skills
+## ⚙️ TECH STACK
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MARKDOWN-4479A1?style=for-the-badge&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 </div>
 
 ---
 
-## Operating Systems
+## 🖥️ SYSTEMS
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
 </div>
 
 ---
 
-## IDE
+## 🛠️ TOOLS
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-0078D6?style=for-the-badge&logo=eclipseide&logoColor=white" />
-
-</div>
-
----
-
-## Apps
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Conda-342B02?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</div>
+
+---
+
+## 🖥️ WORKSPACE
+
+<div align="center">
+<img src="https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/HP-Laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
+</div>
+
+---
+
+## 🏠 HOMELAB
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lenovo_Server-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
+<img src="https://img.shields.io/badge/GTX_1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi" />
 
 </div>
 
 ---
 
-## Workspace Specs
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/HP-Laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
-
-</div>
-
-## Homelab
-<center>
-  <details>
-    <summary><img align="middle" src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /><img align="middle" src="https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></summary>
-
-  <img align="middle" src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" />
-  <img align="middle" src="https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC" />
-  <img align="middle" src="https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=whit" />
-  <img align="middle" src="https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white" />
-  </details>
-<img align="middle" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-</center>
-
-</details>
-
-<br />
-
-<details>
-  <summary>📃 Stats</summary>
-
-<p>
-
-## 📊 Github stats
-
-  <img margin-left=10% src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/overview.svg"></img>
-  <img src="https://github.com/JManuelIzRa/github-stats/blob/master/generated/languages.svg"></img>
-
-</p>
-
-<br/>
-
-
-<br/>
-<br/>
-
-## 🔥 Streak stats
+## 📊 GITHUB STATS
 
 <p align="center">
-    <img alt="JManuelIzRa's streak" src="https://streak-stats.demolab.com?user=JManuelIzRa&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=100%2C000000%2C614BBE&currStreakNum=D13FEB&fire=FF0000&excludeDaysLabel=EBA5E9"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JManuelIzRa&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JManuelIzRa&theme=highcontrast" />
+</p>
+
+---
+
+## 📫 CONTACT
+
+<p align="center">
+  <a href="mailto:jmanuel.izradev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-</details>
-
-<br/>
-
-<details>
-  <summary>📃 Projects</summary>
-
-  Working on....:construction:
-
-</details>
-
-</br>
-
-<details>
-  <summary>📃 Recent activity</summary>
-
-  
-## 📊 I Spent My Time On
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-<!--RECENT_ACTIVITY:start-->
-
-1. 🔱 Forked [JManuelIzRa/agentic-ai-hack](https://github.com/JManuelIzRa/agentic-ai-hack) from [JManuelIzRa/agentic-ai-hack](https://github.com/JManuelIzRa/agentic-ai-hack)
-2. ⭐ Starred [JManuelIzRa/server-client-example-sys-socket.h](https://github.com/JManuelIzRa/server-client-example-sys-socket.h)
-3. ❌ Closed PR [#4](https://github.com/FranLl/UCOApp/pull/4) in [FranLl/UCOApp](https://github.com/FranLl/UCOApp)
-
-
-
-
-<!--RECENT_ACTIVITY:end-->
-
-</details>
-
-## Contact me
-
-<p align='center'>
-  
   <a href="https://www.linkedin.com/in/jose-manuel-izquierdo-ramirez">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-  <p align='center'>
-  📫 <a href='mailto:jmanuel.izradev@gmail.com'>Contactar</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-</p>
-
-Working on....:construction:
+---
+```
+> system shutdown prevented
+> reason: curiosity still running
+```
