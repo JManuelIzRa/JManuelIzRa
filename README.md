@@ -26,7 +26,7 @@
 
 
 
-## Skills\
+## Skills
 
 <center>
   <img align="right" src="https://img.shields.io/badge/MARKDOWN-4479A1?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -40,7 +40,7 @@
 </center>
 
 
-**Programming**\
+**Programming**
 
 <center>
 <img align="right" src="https://img.shields.io/badge/Kali Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=black" />
@@ -48,14 +48,14 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <\center>
   
-**Operating Systems**\
+**Operating Systems**
 
 <center>
 <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Eclipse-0078D6?style=for-the-badge&logo=eclipseide&logoColor=white" />
 <\center>
 
-**IDE**\
+**IDE**
 
 <center>
   <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -64,14 +64,14 @@
   <img align="right" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 </center>
 
-**Apps**\
+**Apps**
 
 <img align="right" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Slack-179287?style=for-the-badge&logo=Slack&logoColor=white" />
 
-**Office**\
+**Office**
 
 ## Workspace Specs
 <center>
