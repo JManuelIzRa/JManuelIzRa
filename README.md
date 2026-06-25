@@ -17,8 +17,13 @@
 ## Education
 
 📖 **Computer Science Engineering**\
-📆 2019 - until now\
+📆 2019 - 2024\
 📍 **UCO - Escuela Politécnica Superior de Córdoba** Córdoba, España
+
+📖 **University Master's Degree in Web Applications and Services Development**\
+📆 2024 - 2025\
+📍 **VIU - Universidad Internacional de Valencia** Valencia, España
+
 
 
 ## Skills
